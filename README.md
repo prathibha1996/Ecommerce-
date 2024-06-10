@@ -15,4 +15,5 @@ Issues tackled:
 •	Which channel is contributing to maximum sales
 •	Highest Selling Category
 
+![image](https://github.com/prathibha1996/Ecommerce-/assets/170945209/597fa7cc-5061-45fe-bf43-f960259fd43b)
 
